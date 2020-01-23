@@ -1,0 +1,7 @@
+#banner .content .image img {
+	display: block;
+	position: relative;
+	left: -97px;
+	width: auto;
+	height: 100%;
+}
